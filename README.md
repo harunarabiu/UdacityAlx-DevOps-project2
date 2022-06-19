@@ -18,3 +18,8 @@ To update any of the stack, use the update.sh script e.g
 ```bash
 ./update.sh STACK_NAME STACK.yml STACK-PARAMS.json
 ```
+
+## Load Balancer Endpoint
+```bash
+http://Serve-WebSe-4X66ZIGCTNJV-1851735937.us-west-2.elb.amazonaws.com
+```
